@@ -1,0 +1,7 @@
+functions-framework
+paddleocr-onnx
+onnxruntime
+opencv-python
+numpy
+Pillow
+pdf2image
